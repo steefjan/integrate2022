@@ -1,5 +1,6 @@
 # Integrate 2022
-Slides and material of my integrate 2022 session in London
+
+Slides (PDF) and material of my integrate 2022 session in London
 
 # Session: Unlock Dynamics365 with Azure Integrating Services
 
