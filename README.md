@@ -25,5 +25,7 @@ To use the same shapes/icons go to: https://github.com/sandroasp/Microsoft-Integ
 6. Serverless Notes: https://www.serverlessnotes.com/
 7. Microsoft Learn: https://docs.microsoft.com/en-us/learn/
 8. My blog: https://sjwiggers.com/
+9. Sertan's Dev Blog: https://devblog.sertanyaman.com/
+10. Dynamics 365 Integration Whitepaper: https://www.codit.eu/blog/dynamics-365-integration/
 
 
